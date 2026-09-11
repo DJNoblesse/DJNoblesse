@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This account is deprecated. all repository is moved to my private repositories.
+This account is almostly deprecated. all repository is moved to my private repositories.
 <!--
 **DJNoblesse/DJNoblesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
